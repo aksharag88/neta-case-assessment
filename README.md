@@ -2,8 +2,8 @@ To install the dependencies, type these into the terminal while in the directory
 
 1. cd backend
 2. npm install express multer cors csv-parse xlsx
-3. 4. cd ../frontend
-npm install
+3. cd ../frontend
+4. npm install
 
 
 After the installs:
